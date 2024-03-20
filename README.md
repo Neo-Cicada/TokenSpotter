@@ -10,8 +10,13 @@ Token Spotter is a tool designed to track newly created tokens across various ne
 
 ## Usage
 TBD
-## Configuration
-TBD
+## Technology
+- **Next.js**
+- **Tailwind**
+- **Mongo**
+- **Node.js**
+- **Express**
+- **TypeScript**
 
 
 ## License
