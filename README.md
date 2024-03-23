@@ -9,7 +9,7 @@ Token Spotter is a tool designed to track newly created tokens across various ne
 - **Real-time Updates:** Stay informed about the latest token creations as they happen with real-time updates.
 
 ## Usage
-TBD
+Search latest solana token
 ## Technology
 - **Next.js**
 - **Tailwind**
