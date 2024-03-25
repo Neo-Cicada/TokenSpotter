@@ -16,7 +16,6 @@ Search latest solana token
 - **Mongo**
 - **Node.js**
 - **Express**
-- **TypeScript**
 
 
 ## License
